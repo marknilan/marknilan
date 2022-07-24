@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marknilan
 - 👀 I’m interested in Cloud systems backend Log Analysis application development
-- 🌱 I’m currently an expert skill using Fortran, Perl, Go & Julia 
+- 🌱 I’m currently an expert skill using Pascal, Go & Julia 
 - 💞️ I’m looking to collaborate on any Cloud based backend development projects concerning logging 
 - 📫 How to reach me - use Linkedin
 
