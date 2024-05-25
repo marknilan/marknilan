@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marknilan
 - 👀 I’m interested in Cloud systems backend Log Analysis application development
-- 🌱 I’m currently focusing on V projects  
+- 🌱 I’m currently focusing on Julia projects  
 - 💞️ I’m looking to collaborate on any Cloud based backend development projects concerning logging 
 - 📫 How to reach me - use Linkedin
 
