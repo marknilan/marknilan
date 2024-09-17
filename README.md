@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @marknilan
-- 👀 I’m interested in Cloud systems backend Log Analysis application development
-- 🌱 I’m currently focusing on Julia projects  
+- 👀 I’m a Dev. I'm interested in cloud systems backend and logging analytics
+- 👀 I develop software for free, I'm retired but still spend 30+ hrs per week writing code
+- 👀 I have deep skills in Go, Vlang, Cystal / Ruby and Julia. I'm an expert level old school SAS programmer
+- 🌱 I’m currently focusing on Nim projects
 - 💞️ I’m looking to collaborate on any Cloud based backend development projects concerning logging 
 - 📫 How to reach me - use Linkedin
 
